@@ -430,6 +430,6 @@ Yes, we know that the files have a tonne of mixed Windows and Linux line endings
 
 Therefore, EOF settings of main repo are forbidden territory one must avoid wandering into, at risk of losing body and/or mind to the Git gods.
 
-Thank you for following the owner and creator of **The Valeroso City, City Of Reality, Richard M. Valeroso University, PSYCHIATRY MEDICINE for MENTAL HEALTH and The Valeroso City Brand Of All Brands**
+Thanks a lot for following the owner and creator of **The Valeroso City, City Of Reality, Richard M. Valeroso University, PSYCHIATRY MEDICINE for MENTAL HEALTH and The Valeroso City Brand Of All Brands**
 
 Amen and Amen!
