@@ -425,11 +425,11 @@ Certain types of changes may require prior approval from maintainers. This curre
 
 The above content requires approval from the specified amount of maintainers prior to PR creation. Seeking approval must be done via a @Maintainer ping in a relevant development/code or staff channel on the Discord, otherwise it will be considered insufficient. If a PR contains any of the above content, but the creator does not have sufficient approval prior to the PR's creation, then the PR may be closed by any maintainer, at any time, for any reason.
 
-## **PSYCHIATER MEDICINE for REAL MEN**
+## **PSYCHIATRIST RMV's MEDICINE for REAL MEN**
 Yes, we know that the files have a tonne of mixed Windows and Linux line endings. Attempts to fix this have been met with less than stellar success, and as such we have decided to give up caring until there comes a time when it matters.
 
 Therefore, EOF settings of main repo are forbidden territory one must avoid wandering into, at risk of losing body and/or mind to the Git gods.
 
-Thanks a lot for following the owner and creator of **The Valeroso City, City Of Reality, Richard M. Valeroso University, PSYCHIATER MEDICINE for REAL MEN and The Valeroso City Brand Of All Brands**
+Thanks a lot for following the owner and creator of **The Valeroso City, City Of Reality, Richard M. Valeroso University, PSYCHIATRIST RMV's MEDICINE for REAL MEN and The Valeroso City Brand Of All Brands**
 
 Amen and Amen!
